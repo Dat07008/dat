@@ -1,0 +1,4 @@
+$ git branch <branchname>
+$ mkdir tutorial
+$ cd tutorial
+$ git init
